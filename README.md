@@ -1,13 +1,3 @@
-//  function sum (...number){
-//     let total =0;
-//     for(let num of number){
-//         total=total+num;
-//     }return total
-//  }
-//  let number= [1,1,1,30,40,50]
-//  console.log(sum(...number))
-//  console.log(sum([1,1,1,30,40,50]))
-
 
  // API Endpoint: https://jsonplaceholder.typicode.com/posts
 // Sample Data:
